@@ -2,7 +2,7 @@
 @font-face {
     font-family: 'Circular Spotify Text';
     src: url('CircularSpotifyText-Book.otf') format('opentype');
-    font-weight: normal;
+    font-weight: 400;
     font-style: normal;
 }
 
@@ -26,7 +26,7 @@
 @font-face {
     font-family: 'Circular Spotify Text';
     src: url('CircularSpotifyText-Bold.otf') format('opentype');
-    font-weight: bold;
+    font-weight: 700;
     font-style: normal;
 }
 
@@ -42,7 +42,7 @@
 @font-face {
     font-family: 'Circular Spotify Text';
     src: url('CircularSpotifyText-BookItalic.otf') format('opentype');
-    font-weight: normal;
+    font-weight: 400;
     font-style: italic;
 }
 
